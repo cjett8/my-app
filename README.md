@@ -20,7 +20,7 @@ A simple Node.js + Express survey web app that serves a multi-question form on `
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/my-survey-app.git
+   git clone https://github.com/cjett8/my-app.git
    cd my-survey-app
 
 2. Install dependencies:
